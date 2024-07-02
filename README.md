@@ -6,6 +6,7 @@ A web page Kanban taskboard that dynamically tracks projects.
 
 This page allows users to enter projects, move them around between to-do, in-progress, and done. It also saves project status to storage and changes color to alert of upcoming and past due dates.
 
+![Untitled design (9)](https://github.com/MaxLC00/To-Do-Tracker/assets/167907843/573c3be0-c22e-4e60-81a6-f742dd5ccd03)
 
 ## Usage
 
